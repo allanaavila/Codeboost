@@ -1,0 +1,16 @@
+section {
+    display: flex;
+}
+
+@media (max-width: 480px)
+{
+    section {
+        flex-direction: column;
+    }
+    .area-azul {
+        background-color: blue;
+    }
+    .area-vermelha {
+        background-color: red;
+    }
+}
