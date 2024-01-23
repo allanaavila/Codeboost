@@ -26,4 +26,27 @@ p {
     }
 }
 
+
+@media(max-width: 1200px)
+{
+    html {
+        font-size: 40%;
+    }
+}
+
+@media(max-width: 991)
+{
+    html {
+        font-size: 40%;
+    }
+}
+
+@media(max-width: 600)
+{
+    html {
+        font-size: 40%;
+    }
+}
+
+
 /*@media tem: 1200, 991, 600, 480*/
